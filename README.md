@@ -1,4 +1,4 @@
-# PhonePe_DataAnalysis# 📊 PhonePe Transaction Insights
+# 📊 PhonePe Transaction Insights
 
 A data engineering and analytics project that extracts insights from PhonePe transaction data. This project loads transaction data from JSON files, stores it into a MySQL database, and enables analysis using Python and SQL.
 
