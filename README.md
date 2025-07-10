@@ -26,13 +26,13 @@ A data engineering and analytics project that extracts insights from PhonePe tra
 
 ## 📁 Folder Structure
 
-📂 phonepe-insights/
-├── data/
-│ └── transactions.json
-├── scripts/
-│ └── insert_to_mysql.py
-├── requirements.txt
-└── README.md
+- 📂 phonepe-insights/
+- ├── data/
+- │ └── transactions.json
+- ├── scripts/
+- │ └── insert_to_mysql.py
+- ├── requirements.txt
+- └── README.md
 
 ---
 
